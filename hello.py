@@ -32,7 +32,7 @@
 def main():
 
     #Ask the user what they want printed.
-    printeger = input("What integer would you like printed?")
+    printeger = input("What integer would you like printed? ")
     print("\n"+ printeger)
     #To print something to the screen in Python.
     print("\n Hello Python Multiverse!\n\n")
